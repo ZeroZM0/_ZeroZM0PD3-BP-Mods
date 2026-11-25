@@ -1,0 +1,33 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.5.3",
+	"FriendlyName": "No Camera Shake",
+	"Description": "Disables camera shake from weapons and player reactions\r\n\r\nDoes not affect recoil and all that",
+	"Category": "Modding",
+	"CreatedBy": "ZeroZM0",
+	"CreatedByURL": "https://modworkshop.net/user/zerozm",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "PDML",
+			"Enabled": true,
+			"SemVersion": "EA_0.1.3"
+		}
+	],
+	"ModAuthors": [
+		"ZeroZM0"
+	],
+	"ModPageURL": "https://modworkshop.net/mod/58886",
+	"EnabledByDefault": true,
+	"SemVersion": "1.5.3",
+	"ModEnvironment": "Client",
+	"ModLoaderVersion": "EA_0.1.3",
+	"RequiredOnRemote": false
+}
